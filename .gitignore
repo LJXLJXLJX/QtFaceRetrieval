@@ -1,0 +1,7 @@
+.vs/
+data/
+Debug/
+Release/
+QtFaceApp/Debug/
+QtFaceApp/Release/
+models/
